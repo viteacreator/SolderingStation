@@ -1,0 +1,154 @@
+Change Component Designator: OldDesignator=DS? NewDesignator=DS1
+Change Component Designator: OldDesignator=DS? NewDesignator=DS2
+Change Component Designator: OldDesignator=DS? NewDesignator=DS3
+Change Component Designator: OldDesignator=DS? NewDesignator=DS4
+Change Component Designator: OldDesignator=DS? NewDesignator=DS5
+Change Component Designator: OldDesignator=DS? NewDesignator=DS6
+Change Component Designator: OldDesignator=DS? NewDesignator=DS7
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC2
+Change Component Designator: OldDesignator=SB? NewDesignator=SB1
+Change Component Designator: OldDesignator=SB? NewDesignator=SB2
+Change Component Designator: OldDesignator=SB? NewDesignator=SB3
+Change Component Designator: OldDesignator=XP? NewDesignator=XP1
+Added Pin To Net: NetName=A Pin=DS1-7
+Added Pin To Net: NetName=A Pin=DS2-7
+Added Pin To Net: NetName=A Pin=DS3-7
+Added Pin To Net: NetName=A Pin=DS4-7
+Added Pin To Net: NetName=A Pin=DS5-7
+Added Pin To Net: NetName=A Pin=DS6-7
+Added Pin To Net: NetName=A Pin=DS7-7
+Added Pin To Net: NetName=A Pin=IC1-15
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=DS1-6
+Added Pin To Net: NetName=B Pin=DS2-6
+Added Pin To Net: NetName=B Pin=DS3-6
+Added Pin To Net: NetName=B Pin=DS4-6
+Added Pin To Net: NetName=B Pin=DS5-6
+Added Pin To Net: NetName=B Pin=DS6-6
+Added Pin To Net: NetName=B Pin=DS7-6
+Added Pin To Net: NetName=B Pin=IC1-1
+Added Net: Name=B
+Added Pin To Net: NetName=C Pin=DS1-4
+Added Pin To Net: NetName=C Pin=DS2-4
+Added Pin To Net: NetName=C Pin=DS3-4
+Added Pin To Net: NetName=C Pin=DS4-4
+Added Pin To Net: NetName=C Pin=DS5-4
+Added Pin To Net: NetName=C Pin=DS6-4
+Added Pin To Net: NetName=C Pin=DS7-4
+Added Pin To Net: NetName=C Pin=IC1-2
+Added Net: Name=C
+Added Pin To Net: NetName=DP Pin=DS1-5
+Added Pin To Net: NetName=DP Pin=DS2-5
+Added Pin To Net: NetName=DP Pin=DS3-5
+Added Pin To Net: NetName=DP Pin=DS4-5
+Added Pin To Net: NetName=DP Pin=DS5-5
+Added Pin To Net: NetName=DP Pin=DS6-5
+Added Pin To Net: NetName=DP Pin=DS7-5
+Added Pin To Net: NetName=DP Pin=IC1-7
+Added Net: Name=DP
+Added Pin To Net: NetName=D Pin=DS1-2
+Added Pin To Net: NetName=D Pin=DS2-2
+Added Pin To Net: NetName=D Pin=DS3-2
+Added Pin To Net: NetName=D Pin=DS4-2
+Added Pin To Net: NetName=D Pin=DS5-2
+Added Pin To Net: NetName=D Pin=DS6-2
+Added Pin To Net: NetName=D Pin=DS7-2
+Added Pin To Net: NetName=D Pin=IC1-3
+Added Net: Name=D
+Added Pin To Net: NetName=E Pin=DS1-1
+Added Pin To Net: NetName=E Pin=DS2-1
+Added Pin To Net: NetName=E Pin=DS3-1
+Added Pin To Net: NetName=E Pin=DS4-1
+Added Pin To Net: NetName=E Pin=DS5-1
+Added Pin To Net: NetName=E Pin=DS6-1
+Added Pin To Net: NetName=E Pin=DS7-1
+Added Pin To Net: NetName=E Pin=IC1-4
+Added Net: Name=E
+Added Pin To Net: NetName=F Pin=DS1-9
+Added Pin To Net: NetName=F Pin=DS2-9
+Added Pin To Net: NetName=F Pin=DS3-9
+Added Pin To Net: NetName=F Pin=DS4-9
+Added Pin To Net: NetName=F Pin=DS5-9
+Added Pin To Net: NetName=F Pin=DS6-9
+Added Pin To Net: NetName=F Pin=DS7-9
+Added Pin To Net: NetName=F Pin=IC1-5
+Added Net: Name=F
+Added Pin To Net: NetName=GND Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=IC1-13
+Added Pin To Net: NetName=GND Pin=IC2-8
+Added Pin To Net: NetName=GND Pin=IC2-13
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=SB2-1
+Added Pin To Net: NetName=GND Pin=SB3-1
+Added Pin To Net: NetName=GND Pin=XP1-2
+Added Pin To Net: NetName=GND Pin=XP1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=G Pin=DS1-10
+Added Pin To Net: NetName=G Pin=DS2-10
+Added Pin To Net: NetName=G Pin=DS3-10
+Added Pin To Net: NetName=G Pin=DS4-10
+Added Pin To Net: NetName=G Pin=DS5-10
+Added Pin To Net: NetName=G Pin=DS6-10
+Added Pin To Net: NetName=G Pin=DS7-10
+Added Pin To Net: NetName=G Pin=IC1-6
+Added Net: Name=G
+Added Pin To Net: NetName=NetIC1_14 Pin=IC1-14
+Added Pin To Net: NetName=NetIC1_14 Pin=IC2-9
+Added Net: Name=NetIC1_14
+Added Pin To Net: NetName=NetIC2_11 Pin=IC2-11
+Added Pin To Net: NetName=NetIC2_11 Pin=XP1-5
+Added Net: Name=NetIC2_11
+Added Pin To Net: NetName=NetIC2_12 Pin=IC2-12
+Added Pin To Net: NetName=NetIC2_12 Pin=XP1-7
+Added Net: Name=NetIC2_12
+Added Pin To Net: NetName=NetIC2_14 Pin=IC2-14
+Added Pin To Net: NetName=NetIC2_14 Pin=XP1-9
+Added Net: Name=NetIC2_14
+Added Pin To Net: NetName=NetSB1_2 Pin=SB1-2
+Added Pin To Net: NetName=NetSB1_2 Pin=XP1-6
+Added Net: Name=NetSB1_2
+Added Pin To Net: NetName=NetSB2_2 Pin=SB2-2
+Added Pin To Net: NetName=NetSB2_2 Pin=XP1-8
+Added Net: Name=NetSB2_2
+Added Pin To Net: NetName=NetSB3_2 Pin=SB3-2
+Added Pin To Net: NetName=NetSB3_2 Pin=XP1-10
+Added Net: Name=NetSB3_2
+Added Pin To Net: NetName=S1 Pin=DS1-3
+Added Pin To Net: NetName=S1 Pin=IC2-15
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=DS2-3
+Added Pin To Net: NetName=S2 Pin=IC2-1
+Added Net: Name=S2
+Added Pin To Net: NetName=S3 Pin=DS3-3
+Added Pin To Net: NetName=S3 Pin=IC2-2
+Added Net: Name=S3
+Added Pin To Net: NetName=S4 Pin=DS4-3
+Added Pin To Net: NetName=S4 Pin=IC2-3
+Added Net: Name=S4
+Added Pin To Net: NetName=S5 Pin=DS5-3
+Added Pin To Net: NetName=S5 Pin=IC2-4
+Added Net: Name=S5
+Added Pin To Net: NetName=S6 Pin=DS6-3
+Added Pin To Net: NetName=S6 Pin=IC2-5
+Added Net: Name=S6
+Added Pin To Net: NetName=S7 Pin=DS7-3
+Added Pin To Net: NetName=S7 Pin=IC2-6
+Added Net: Name=S7
+Added Pin To Net: NetName=VDD Pin=IC1-10
+Added Pin To Net: NetName=VDD Pin=IC1-16
+Added Pin To Net: NetName=VDD Pin=IC2-10
+Added Pin To Net: NetName=VDD Pin=IC2-16
+Added Pin To Net: NetName=VDD Pin=XP1-1
+Added Pin To Net: NetName=VDD Pin=XP1-3
+Added Net: Name=VDD
+Added Member To Class: ClassName=Front panel Member=Component DS1 7-Seg
+Added Member To Class: ClassName=Front panel Member=Component DS2 7-Seg
+Added Member To Class: ClassName=Front panel Member=Component DS3 7-Seg
+Added Member To Class: ClassName=Front panel Member=Component DS4 7-Seg
+Added Member To Class: ClassName=Front panel Member=Component DS6 7-Seg
+Added Member To Class: ClassName=Front panel Member=Component DS7 7-Seg
+Added Member To Class: ClassName=Front panel Member=Component IC2 74HC595D
+Added Member To Class: ClassName=Front panel Member=Component SB2 SW-SPST
+Added Member To Class: ClassName=Front panel Member=Component SB3 SW-SPST
+Added Room: Name=Front panel
