@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=SB? NewDesignator=SB1
+Change Component Designator: OldDesignator=SB? NewDesignator=SB2
+Change Component Designator: OldDesignator=SB? NewDesignator=SB3
+Change Net Name : Old Net Name=NetSB?_3 New Net Name=NetSB3_3
+Added Pin To Net: NetName=NetSB1_3 Pin=SB1-3
+Added Pin To Net: NetName=NetSB1_3 Pin=SB1-4
+Added Pin To Net: NetName=NetSB1_3 Pin=XP1-6
+Added Net: Name=NetSB1_3
+Added Pin To Net: NetName=NetSB2_3 Pin=SB2-3
+Added Pin To Net: NetName=NetSB2_3 Pin=SB2-4
+Added Pin To Net: NetName=NetSB2_3 Pin=XP1-8
+Added Net: Name=NetSB2_3
+Added Member To Class: ClassName=Front panel Member=Component SB2 SW-SPST_1
+Added Member To Class: ClassName=Front panel Member=Component SB3 SW-SPST_1
+Added Room: Name=Front panel

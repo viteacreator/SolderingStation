@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetIC1_11 Pin=IC1-11
+Added Pin To Net: NetName=NetIC1_11 Pin=IC2-11
+Added Pin To Net: NetName=NetIC1_11 Pin=XP1-5
+Added Net: Name=NetIC1_11
+Added Pin To Net: NetName=NetIC1_12 Pin=IC1-12
+Added Pin To Net: NetName=NetIC1_12 Pin=IC2-12
+Added Pin To Net: NetName=NetIC1_12 Pin=XP1-7
+Added Net: Name=NetIC1_12
+Added Member To Class: ClassName=Front panel Member=Component DS7 7-Seg
+Added Member To Class: ClassName=Front panel Member=Component SB1 SW-SPST_1
+Added Room: Name=Front panel

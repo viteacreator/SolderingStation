@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=B Pin=IC1-1
+Removed Pin From Net: NetName=C Pin=IC1-2
+Removed Pin From Net: NetName=D Pin=IC1-3
+Removed Pin From Net: NetName=E Pin=IC1-4
+Removed Pin From Net: NetName=F Pin=IC1-5
+Removed Pin From Net: NetName=G Pin=IC1-6
+Removed Pin From Net: NetName=DP Pin=IC1-7
+Removed Pin From Net: NetName=A Pin=IC1-15
+Removed Pin From Net: NetName=GND Pin=SB1-2
+Removed Pin From Net: NetName=NetSB2_2 Pin=SB2-1
+Removed Pin From Net: NetName=GND Pin=SB3-2
+Added Component: Designator=R1(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC2012(0805)N)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RESC2012(0805)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A Pin=R1-1
+Added Pin To Net: NetName=B Pin=R2-1
+Added Pin To Net: NetName=C Pin=R3-1
+Added Pin To Net: NetName=D Pin=R4-1
+Added Pin To Net: NetName=E Pin=R5-1
+Added Pin To Net: NetName=F Pin=R6-1
+Added Pin To Net: NetName=G Pin=R7-1
+Added Pin To Net: NetName=DP Pin=R8-1
+Added Pin To Net: NetName=NetSB1_2 Pin=SB1-2
+Added Pin To Net: NetName=GND Pin=SB2-1
+Added Pin To Net: NetName=NetSB3_2 Pin=SB3-2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=R2-2
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC1_2 Pin=IC1-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R3-2
+Added Net: Name=NetIC1_2
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_3 Pin=R4-2
+Added Net: Name=NetIC1_3
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=R5-2
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=R6-2
+Added Net: Name=NetIC1_5
+Added Pin To Net: NetName=NetIC1_6 Pin=IC1-6
+Added Pin To Net: NetName=NetIC1_6 Pin=R7-2
+Added Net: Name=NetIC1_6
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=R8-2
+Added Net: Name=NetIC1_7
+Added Pin To Net: NetName=NetIC1_15 Pin=IC1-15
+Added Pin To Net: NetName=NetIC1_15 Pin=R1-2
+Added Net: Name=NetIC1_15
+Added Member To Class: ClassName=Front panel Member=Component IC1 74HC595D
+Added Member To Class: ClassName=Front panel Member=Component R1 100R
+Added Member To Class: ClassName=Front panel Member=Component R2 100R
+Added Member To Class: ClassName=Front panel Member=Component R3 100R
+Added Member To Class: ClassName=Front panel Member=Component R4 100R
+Added Member To Class: ClassName=Front panel Member=Component R5 100R
+Added Member To Class: ClassName=Front panel Member=Component R6 100R
+Added Member To Class: ClassName=Front panel Member=Component R7 100R
+Added Member To Class: ClassName=Front panel Member=Component R8 100R
+Added Member To Class: ClassName=Front panel Member=Component SB1 SW-SPST
+Added Room: Name=Front panel

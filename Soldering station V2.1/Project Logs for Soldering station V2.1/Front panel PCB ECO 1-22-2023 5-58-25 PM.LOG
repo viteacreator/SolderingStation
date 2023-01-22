@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetSB1_2 Pin=SB1-1
+Removed Pin From Net: NetName=GND Pin=SB2-2
+Removed Pin From Net: NetName=NetSB3_2 Pin=SB3-1
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=NetSB2_2 Pin=SB2-2
+Added Pin To Net: NetName=GND Pin=SB3-1
+Added Room: Name=Front panel

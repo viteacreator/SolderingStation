@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=SB2-1
+Removed Pin From Net: NetName=GND Pin=SB2-2
+Removed Member From Class: ClassName=Front panel Member=SB1
+Removed Member From Class: ClassName=Front panel Member=SB2
+Removed Member From Class: ClassName=Front panel Member=SB3
+Added Component: Designator=SB?(B3FS_SWITCH)
+Add component (AddParameter): Name = "Part Number"; Value = "SW-SPST_1"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(B3FS_SWITCH)
+Add component (AddParameter): Name = "Part Number"; Value = "SW-SPST_1"; VariantName = "[No Variations]"
+Added Component: Designator=SB?(B3FS_SWITCH)
+Add component (AddParameter): Name = "Part Number"; Value = "SW-SPST_1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SB?-1
+Added Pin To Net: NetName=GND Pin=SB?-1
+Added Pin To Net: NetName=GND Pin=SB?-1
+Added Pin To Net: NetName=GND Pin=SB?-2
+Added Pin To Net: NetName=GND Pin=SB?-2
+Added Pin To Net: NetName=GND Pin=SB?-2
+Added Pin To Net: NetName=NetSB?_3 Pin=SB?-3
+Added Pin To Net: NetName=NetSB?_3 Pin=SB?-4
+Added Pin To Net: NetName=NetSB?_3 Pin=XP1-10
+Added Net: Name=NetSB?_3
+Add Net: Net with name "NetSB?_3" already exists
+Add Net: Net with name "NetSB?_3" already exists
+Added Member To Class: ClassName=Front panel Member=Component SB? SW-SPST_1
+Added Member To Class: ClassName=Front panel Member=Component SB? SW-SPST_1
+Added Member To Class: ClassName=Front panel Member=Component SB? SW-SPST_1
+Added Room: Name=Front panel
