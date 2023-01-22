@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LAESNZNM
 
 [Document3]
-DocumentPath=Main board.PcbDoc
+DocumentPath=Front panel.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
