@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=GND Pin=SB1-1
+Removed Pin From Net: NetName=GND Pin=SB1-2
+Removed Pin From Net: NetName=GND Pin=SB2-1
+Removed Pin From Net: NetName=GND Pin=SB2-2
+Removed Pin From Net: NetName=GND Pin=SB3-1
+Removed Pin From Net: NetName=GND Pin=SB3-2
+Removed Pin From Net: NetName=VDD Pin=XP1-1
+Added Component: Designator=DD1(TQFP32_N)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "ATMEGA328PB-AU-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/microchip-technology/ATMEGA328PB-AU/ATMEGA328PB-AU-ND/5638812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ATMEGA328PB-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ATMEGA328"; VariantName = "[No Variations]"
+Added Component: Designator=G1(CSTNE_G)
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-17958-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.com/ProductDetail/Murata-Electronics/CSTNE8M00G550000R0?qs=sGAEpiMZZMsBj6bBr9Q9aZiWbAMN9VKZL2sPd%252BqabYTr9Kzmh3hi1Q%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CSTNE8M00G550000R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-CSTNE8M00G550000R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-3pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CSTNE8M00G550000R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price$"; Value = "0.148"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DD1-21
+Added Pin To Net: NetName=GND Pin=SB1-3
+Added Pin To Net: NetName=GND Pin=SB1-4
+Added Pin To Net: NetName=GND Pin=SB2-3
+Added Pin To Net: NetName=GND Pin=SB2-4
+Added Pin To Net: NetName=GND Pin=SB3-3
+Added Pin To Net: NetName=GND Pin=SB3-4
+Added Pin To Net: NetName=5V Pin=DD1-4
+Added Pin To Net: NetName=5V Pin=DD1-6
+Added Pin To Net: NetName=5V Pin=DD1-18
+Added Net: Name=5V
+Added Pin To Net: NetName=NetDD1_7 Pin=DD1-7
+Added Pin To Net: NetName=NetDD1_7 Pin=G1-3
+Added Net: Name=NetDD1_7
+Added Pin To Net: NetName=NetDD1_8 Pin=DD1-8
+Added Pin To Net: NetName=NetDD1_8 Pin=G1-1
+Added Net: Name=NetDD1_8
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-1
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-2
+Added Pin To Net: NetName=NetSB1_1 Pin=XP1-6
+Added Net: Name=NetSB1_1
+Added Pin To Net: NetName=NetSB2_1 Pin=SB2-1
+Added Pin To Net: NetName=NetSB2_1 Pin=SB2-2
+Added Pin To Net: NetName=NetSB2_1 Pin=XP1-8
+Added Net: Name=NetSB2_1
+Added Pin To Net: NetName=NetSB3_1 Pin=SB3-1
+Added Pin To Net: NetName=NetSB3_1 Pin=SB3-2
+Added Pin To Net: NetName=NetSB3_1 Pin=XP1-10
+Added Net: Name=NetSB3_1
+Added Class: Name=Main board
+Added Room: Name=Front panel
+Added Room: Name=Main board
